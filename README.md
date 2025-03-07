@@ -1,2 +1,2 @@
 # Git-Demo
-I am learning some good techs.
+I am learning some good tech.
